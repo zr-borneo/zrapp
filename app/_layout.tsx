@@ -36,6 +36,8 @@ function RootLayoutNav() {
     <GluestackUIProvider mode="light">
       <Stack>
         <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
+        <Stack.Screen name="film/[id]" options={{ title: "Detail Film" }} />
+        <Stack.Screen name="play/[id]" options={{ title: "Detail Film" }} />
         <Stack.Screen name="+not-found" />
       </Stack>
     </GluestackUIProvider>

@@ -1,0 +1,516 @@
+{
+  "films": [
+    {
+      "id": 2131,
+      "name": "Bayangan di Balik Kaya",
+      "foto": "https://sres.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000111168/41000111168.jpg",
+      "introduction": "Di kehidupan sebelumnya, ibu mencegah ...",
+      "category": "Romansa",
+      "language": "Bahasa Indonesia",
+      "Total Episode": 80,
+      "episodes": [
+        {
+          "Episodeid": 1001,
+          "IndexStr": 1,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1002,
+          "IndexStr": 2,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/27/8x6/86x1/861x1/86111100014/586022772_1/586022772.mp4.jpg",
+          "Episode Mp4": "/27/8x6/86x1/861x1/86111100014/586022772_1/586022772"
+        },
+        {
+          "Episodeid": 1003,
+          "IndexStr": 3,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/37/8x6/86x1/861x1/86111100014/586022773_1/586022773.mp4.jpg",
+          "Episode Mp4": "/37/8x6/86x1/861x1/86111100014/586022773_1/586022773"
+        },
+        {
+          "Episodeid": 1004,
+          "IndexStr": 4,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/47/8x6/86x1/861x1/86111100014/586022774_1/586022774.mp4.jpg",
+          "Episode Mp4": "/47/8x6/86x1/861x1/86111100014/586022774_1/586022774"
+        },
+        {
+          "Episodeid": 1005,
+          "IndexStr": 5,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/57/8x6/86x1/861x1/86111100014/586022775_1/586022775.mp4.jpg",
+          "Episode Mp4": "/57/8x6/86x1/861x1/86111100014/586022775_1/586022775"
+        },
+        {
+          "Episodeid": 1006,
+          "IndexStr": 6,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1007,
+          "IndexStr": 7,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1008,
+          "IndexStr": 8,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/27/8x6/86x1/861x1/86111100014/586022772_1/586022772.mp4.jpg",
+          "Episode Mp4": "/27/8x6/86x1/861x1/86111100014/586022772_1/586022772"
+        },
+        {
+          "Episodeid": 1009,
+          "IndexStr": 9,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1010,
+          "IndexStr": 10,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1011,
+          "IndexStr": 11,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1012,
+          "IndexStr": 12,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1013,
+          "IndexStr": 13,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1014,
+          "IndexStr": 14,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1015,
+          "IndexStr": 15,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+
+        {
+          "Episodeid": 1016,
+          "IndexStr": 16,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1017,
+          "IndexStr": 17,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1018,
+          "IndexStr": 18,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1019,
+          "IndexStr": 19,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1020,
+          "IndexStr": 20,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1021,
+          "IndexStr": 21,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1022,
+          "IndexStr": 22,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1023,
+          "IndexStr": 23,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1024,
+          "IndexStr": 24,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1025,
+          "IndexStr": 25,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1026,
+          "IndexStr": 26,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1027,
+          "IndexStr": 27,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1028,
+          "IndexStr": 28,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1029,
+          "IndexStr": 29,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1030,
+          "IndexStr": 30,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1031,
+          "IndexStr": 31,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1032,
+          "IndexStr": 32,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1033,
+          "IndexStr": 33,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1034,
+          "IndexStr": 34,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1035,
+          "IndexStr": 35,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1036,
+          "IndexStr": 36,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1037,
+          "IndexStr": 37,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1038,
+          "IndexStr": 38,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1039,
+          "IndexStr": 39,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1040,
+          "IndexStr": 40,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1041,
+          "IndexStr": 41,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1042,
+          "IndexStr": 42,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1043,
+          "IndexStr": 43,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1044,
+          "IndexStr": 44,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1045,
+          "IndexStr": 45,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1046,
+          "IndexStr": 46,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1047,
+          "IndexStr": 47,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1048,
+          "IndexStr": 48,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1049,
+          "IndexStr": 49,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1050,
+          "IndexStr": 50,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1051,
+          "IndexStr": 51,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1052,
+          "IndexStr": 52,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1053,
+          "IndexStr": 53,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1054,
+          "IndexStr": 54,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1055,
+          "IndexStr": 55,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1056,
+          "IndexStr": 56,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1057,
+          "IndexStr": 57,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1058,
+          "IndexStr": 58,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1059,
+          "IndexStr": 59,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1060,
+          "IndexStr": 60,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1061,
+          "IndexStr": 61,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1062,
+          "IndexStr": 62,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1063,
+          "IndexStr": 63,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1064,
+          "IndexStr": 64,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1065,
+          "IndexStr": 65,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1066,
+          "IndexStr": 66,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1067,
+          "IndexStr": 67,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1068,
+          "IndexStr": 68,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1069,
+          "IndexStr": 69,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1070,
+          "IndexStr": 70,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1071,
+          "IndexStr": 71,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1072,
+          "IndexStr": 72,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1073,
+          "IndexStr": 73,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1074,
+          "IndexStr": 74,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1075,
+          "IndexStr": 75,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1076,
+          "IndexStr": 76,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1077,
+          "IndexStr": 77,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1078,
+          "IndexStr": 78,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1079,
+          "IndexStr": 79,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        },
+        {
+          "Episodeid": 1080,
+          "IndexStr": 80,
+          "Episode Cover Image": "https://vres.dramaboxdb.com/17/8x6/86x1/861x1/86111100014/586022771_1/586022771.mp4.jpg",
+          "Episode Mp4": "/17/8x6/86x1/861x1/86111100014/586022771_1/586022771"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Kekuatan Ibu Kesayangan(Sulih Suara)",
+      "foto": "https://sres.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000111481/41000111481.jpg",
+      "introduction": "Deskripsi singkat film dua.",
+      "category": "Keluarga",
+      "language": "Bahasa Indonesia",
+      "Total Episode": 2,
+      "episodes": []
+    },
+    {
+      "id": 3,
+      "name": "Pesona Istri Manis Sang CEO",
+      "foto": "https://sres.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000111771/41000111771.jpg",
+      "introduction": "Deskripsi singkat film satu.",
+      "category": "Action",
+      "language": "Bahasa Indonesia",
+      "Total Episode": 2,
+      "episodes": []
+    }
+  ]
+}
